@@ -1,4 +1,7 @@
-## ThinkRack:
+# ThinkRack
+
+![Ubiquiti Network Application WebUI](../images/Web&#32;Interfaces/ThinkRack.png)
+
 - Rack: Digitus DN-19 09-U-EC
 - Ubiquiti Networking:
     - Router: USG-3P

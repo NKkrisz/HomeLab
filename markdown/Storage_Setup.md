@@ -1,6 +1,8 @@
-# Storage Setup
+# TrueNAS Scale running in Proxmox VM with HBA in PCI-e passthrough
 
-## TrueNAS Scale running in Proxmox VM with HBA in PCI-e passthrough:
+![TrueNAS Scale WebUI](../images/Web&#32;Interfaces/TrueNAS&#32;Scale.png)
+
+## Hardware:
 - Lenovo M720Q MiniPC
 - CPU: 3 cores
 - RAM: 8GB
