@@ -1,5 +1,7 @@
 # HomeLab
-Welcome to my HomeLab! (v1)
+Welcome to my HomeLab! (v1)  
+Feel free to browse the images related to each device/setup!  
+Below links lead to detailed texts about how I choose / build / fix / did something:
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
