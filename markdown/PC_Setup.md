@@ -1,5 +1,8 @@
 # PC Setup
 
+![My PC](../images/PC&#32;Setup/PXL_20230630_114415949&#32;-&#32;Copy.jpg)
+(This was before I added additional fans and SSD)
+
 ## Main Components:
 - CPU: [AMD Ryzen 3 3100 (4c/8t)](https://www.amd.com/en/support/cpu/amd-ryzen-processors/amd-ryzen-3-desktop-processors/amd-ryzen-3-3100)
 - Motherboard: [MSI B450 Tomahawk Max](https://www.msi.com/Motherboard/B450-TOMAHAWK-MAX)

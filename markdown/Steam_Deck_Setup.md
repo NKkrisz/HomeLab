@@ -1,5 +1,7 @@
 # Steam Deck
 
+![Modded Steam Deck](../images/Steam&#32;Deck/PXL_20231224_115010532&#32;-&#32;Copy.jpg)
+
 - ExtremeRate Black Transparent Shell 
 - Mepatem Case 
 - Original Buttons
