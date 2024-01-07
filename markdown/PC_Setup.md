@@ -47,5 +47,6 @@
 - Mouse Mat: AliExpress Custom 400x800x3mm
 
 ## Other:
+- Current Operating System: Windows 11 Pro
 - Bluetooth adapter: [ASUS USB-BT500](https://www.asus.com/networking-iot-servers/adapters/all-series/usb-bt500/)
 - Printer: [HP Laserjet 1018](https://support.hp.com/us-en/product/details/hp-laserjet-1018-printer/1814092)
