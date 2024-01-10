@@ -14,3 +14,5 @@
 
 ## Other:
 - Current Operating System: Linux Mint
+- 1440p screen swap in future?
+- Try to Hackintosh it?
