@@ -13,6 +13,5 @@
 - Main: [1080p IPS]()
 
 ## Other:
-- Current Operating System: Linux Mint
+- Current Operating System: MacOS Ventura (Hackintosh in progress...)
 - 1440p screen swap in future?
-- Try to Hackintosh it?
