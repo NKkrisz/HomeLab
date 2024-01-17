@@ -1,5 +1,6 @@
 # HomeLab
 Welcome to my HomeLab! (v1)  
+Current events: Testing 4x 3TB WD Purple HDDs  
 ![Full HomeLab/Setup](images/Room&#32;Setup/PXL_20231231_210041993&#32;-&#32;Copy.jpg)
 Feel free to browse the images related to each device/setup in the repository!  
 Below links lead to detailed texts about how I choose / build / fix / did something:
