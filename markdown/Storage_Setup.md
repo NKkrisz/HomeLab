@@ -15,7 +15,7 @@
 - bigTruePool - MIRROR
 - temporaryZ1TruePool - RAIDZ1
 
-## Disks:
+## Disks (Old, to be updated soon):
 |  Name |   Disk Size  |          Pool         | Disk Type |           Model           |
 |:-----:|:------------:|:---------------------:|:---------:|:-------------------------:|
 |  sda  |  50 GiB      |  boot-pool            |    HDD    |  QEMU_HARDDISK            |
