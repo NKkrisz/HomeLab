@@ -23,5 +23,5 @@
 - Trackpad: Elan Touchpad
 - Trackpoint: Elan Trackpoint
 - Audio Codec: (HDA Intel PCH) ALC257 Analog
-- Current Operating System: Windows 11
+- Current Operating System: Windows 11 Pro
 - 1440p screen swap in future?
