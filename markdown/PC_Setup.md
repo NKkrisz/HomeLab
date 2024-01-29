@@ -26,6 +26,7 @@
 ## Audio Setup:
 - Headphones: Superlux HD681B
 - Speakers: Orion HT728 5.1 Speaker Set With Remote
+- Wireless Earbuds: [Sony LinkBuds S](https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wfls900n-b)
 
 ## Display Setup:
 - Main: [Dell S3422DWG (Curved Ultrawide, WQHD, 144Hz, VA, HDR400, AMD Freesync)](https://www.dell.com/en-us/shop/dell-34-curved-gaming-monitor-s3422dwg/apd/210-azep/monitors-monitor-accessories)
