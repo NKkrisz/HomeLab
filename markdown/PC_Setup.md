@@ -24,7 +24,7 @@
 - Thermal Paste: Some random one I found in the house
 
 ## Audio Setup:
-- Headphones: Superlux HD681B
+- Headphones: Superlux HD681B, Upgrade soon????
 - Speakers: Orion HT728 5.1 Speaker Set With Remote
 - Wireless Earbuds: [Sony LinkBuds S](https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wfls900n-b)
 
