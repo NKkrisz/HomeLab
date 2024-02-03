@@ -1,6 +1,7 @@
 # Steam Deck
 
 ![Modded Steam Deck](../images/Steam&#32;Deck/PXL_20231224_115010532&#32;-&#32;Copy.jpg)
+[(Old setup, this one broke and was unable to boot, luckily Valve gave me a new one)](https://www.reddit.com/r/SteamDeck/comments/19aklxn/cant_get_my_deck_to_boot_or_display_anything/)
 
 - ExtremeRate Black Transparent Shell 
 - Mepatem Case 
