@@ -10,6 +10,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Maybe try installing a custom ROM to my old tablet
 - Software modding, undervolting, clicky buttons for Steam Deck?
 - Replace paddings on HD580
+- Post more content to my new subreddit [r/SteamDeck_2](https://www.reddit.com/r/SteamDeck_2/)
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
