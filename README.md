@@ -12,6 +12,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Replace paddings on HD580
 - Post more content to my new subreddit [r/SteamDeck_2](https://www.reddit.com/r/SteamDeck_2/)
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
+- Probably rebrand/rename this repository in the future as it's now more general tech things I do
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
