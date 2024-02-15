@@ -8,7 +8,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Reconfigure Storage Setup (Configure maybe 3 drives in RAID 1 and add back an SSD for cache?)
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
-- Software modding, undervolting, clicky buttons for Steam Deck?
+- Software modding and undervolting the Steam Deck?
 - Replace paddings on HD580
 - Post more content to my new subreddit [r/SteamDeck_2](https://www.reddit.com/r/SteamDeck_2/)
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
