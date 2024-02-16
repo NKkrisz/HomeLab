@@ -15,6 +15,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Remake my portfolio site
+- Rename files so they don't contain white spaces
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
