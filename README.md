@@ -6,6 +6,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ## ![Full HomeLab/Setup](images/Room&#32;Setup/PXL_20231231_210041993&#32;-&#32;Copy.jpg)
 ## Current Events / TODO List: 
 - Reconfigure Storage Setup (Configure maybe 3 drives in RAID 1 and add back an SSD for cache?)
+- Reconfiguring storage in progress (currently testing)
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
 - Software modding and undervolting the Steam Deck?
