@@ -5,8 +5,7 @@ Feel free to browse the images related to each device/setup in the repository!
 Below paragraphs lead to detailed texts about how I choose / build / fix / did something:
 ## ![Full HomeLab/Setup](images/Room&#32;Setup/PXL_20231231_210041993&#32;-&#32;Copy.jpg)
 ## Current Events / TODO List: 
-- Reconfigure Storage Setup (Configure maybe 3 drives in RAID 1 and add back an SSD for cache?)
-- Reconfiguring storage in progress (currently testing)
+- Add new storage setup details and try setting up SyncThing later
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
 - Software modding and undervolting the Steam Deck?
