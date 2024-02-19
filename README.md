@@ -6,6 +6,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ## ![Full HomeLab/Setup](images/Room&#32;Setup/PXL_20231231_210041993&#32;-&#32;Copy.jpg)
 ## Current Events / TODO List: 
 - Add new storage setup details and try setting up SyncThing later
+- Maybe try Fedora KDE again on main PC
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
 - Software modding and undervolting the Steam Deck?
