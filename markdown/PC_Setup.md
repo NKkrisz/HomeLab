@@ -13,7 +13,6 @@
 ## Storage:
 - Boot Drive: [Samsung 970 EVO Plus 1TB NVMe M.2 2280 SSD](https://semiconductor.samsung.com/consumer-storage/internal-ssd/970evoplus/)
 - HDD #1: [Seagate BarraCuda 2TB 7200rpm 256MB HDD](https://www.seagate.com/gb/en/products/hard-drives/barracuda-hard-drive/)
-- HDD #2: [Toshiba P300 2TB 7200rpm 64MB HDD](https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-p300/)
 
 ## Case And Cooling:
 - Case: [Cougar MX410](https://cougargaming.com/products/cases/mx410/)
