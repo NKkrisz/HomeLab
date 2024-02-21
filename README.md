@@ -10,7 +10,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
 - Software modding and undervolting the Steam Deck?
-- Replace paddings on HD580
+- Review Nullmini ear/head paddings that I've got for the HD580
 - Post more content to my new subreddit [r/SteamDeck_2](https://www.reddit.com/r/SteamDeck_2/)
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
