@@ -7,6 +7,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ## Current Events / TODO List: 
 - Add new storage setup details and try setting up SyncThing later
 - Maybe try Fedora KDE again on main PC
+- Make backups of important things to server
 - Setup VPN
 - Maybe try installing a custom ROM to my old tablet
 - Software modding and undervolting the Steam Deck?
