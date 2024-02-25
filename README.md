@@ -7,13 +7,15 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ## Current Events / TODO List (bold/italic items are in progress): 
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
+- Add a markdown file linking to guides I made or copy them over to here
 - Rename files so they don't contain white spaces
+- Add new storage setup details
 ### Steam Deck
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
-- Software modding and undervolting the Steam Deck?
+- Software modding and undervolting the Steam Deck? (post to r/SteamDeck_2)
 ### Server
-- Add new storage setup details and try setting up SyncThing later
 - ***Make backups of important things to server***
+- Try setting up SyncThing
 - Setup VPN
 ### Other
 - Review Nullmini ear/head paddings that I've got for the HD580 and upload pictures here
