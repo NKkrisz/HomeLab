@@ -22,6 +22,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Maybe try installing a custom ROM to my old tablet
 - ***Maybe try Fedora KDE again on main PC***
+- TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
 - Remake my portfolio site
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
