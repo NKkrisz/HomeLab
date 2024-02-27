@@ -20,10 +20,11 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ### Other
 - Review Nullmini ear/head paddings that I've got for the HD580 and upload pictures here
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
-- Maybe try installing a custom ROM to my old tablet
-- ***Maybe try Fedora KDE again on main PC***
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
-- Remake my portfolio site
+- Maybe try installing a custom ROM to my old tablet
+- Make a blog where I can post my original content
+- ***Maybe try Fedora KDE again on main PC***
+- ***Remake my portfolio site***
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
