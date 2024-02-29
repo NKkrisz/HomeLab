@@ -17,8 +17,11 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - ***Make backups of important things to server***
 - Try setting up SyncThing
 - Setup VPN
+### Upcoming Reviews
+- ***Nullmini ear/head paddings that I've got for the HD580***
+- Sennheiser HD580 Precision Headphones
+- 8BitDo SN30 Pro Special Edition (Purple Translucent) Controller
 ### Other
-- Review Nullmini ear/head paddings that I've got for the HD580 and upload pictures here
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
 - Maybe try installing a custom ROM to my old tablet
