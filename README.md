@@ -21,13 +21,15 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - ***Nullmini ear/head paddings that I've got for the HD580***
 - Sennheiser HD580 Precision Headphones
 - 8BitDo SN30 Pro Special Edition (Purple Translucent) Controller
+- Add images of each item to this repository
 ### Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
-- TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
+- ***TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)***
 - Maybe try installing a custom ROM to my old tablet
 - Make a blog where I can post my original content
 - ***Maybe try Fedora KDE again on main PC***
 - ***Remake my portfolio site***
+- Reset VSCode and Firefox
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
