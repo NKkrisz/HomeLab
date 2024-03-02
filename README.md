@@ -19,7 +19,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Setup VPN
 ### Upcoming Reviews
 - ***Nullmini ear/head paddings that I've got for the HD580***
-- Sennheiser HD580 Precision Headphones
+- ***Sennheiser HD580 Precision Headphones (and compare to Superlux H681B)***
 - 8BitDo SN30 Pro Special Edition (Purple Translucent) Controller
 - Add images of each item to this repository
 ### Other
