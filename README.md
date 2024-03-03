@@ -19,8 +19,9 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Setup VPN
 ### Upcoming Reviews
 - ***Nullmini ear/head paddings that I've got for the HD580***
-- ***Sennheiser HD580 Precision Headphones (and compare to Superlux H681B)***
+- ***Sennheiser HD580 Precision Headphones and compare to Superlux H681B (halfway done)***
 - 8BitDo SN30 Pro Special Edition (Purple Translucent) Controller
+- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - Add images of each item to this repository
 ### Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
@@ -28,7 +29,8 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Maybe try installing a custom ROM to my old tablet
 - Make a blog where I can post my original content
 - ***Maybe try Fedora KDE again on main PC***
-- ***Remake my portfolio site***
+- Carbon fibre vinyl wrap my ThinkPad T480s
+- ***Remake my portfolio site (halfway done)***
 - Reset VSCode and Firefox
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
