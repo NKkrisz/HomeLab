@@ -20,8 +20,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ### Upcoming Reviews
 - ***Nullmini ear/head paddings that I've got for the HD580***
 - ***Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (halfway done)***
-- 8BitDo SN30 Pro Special Edition (Purple Translucent) Controller
-- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
+- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck, 8BitDo SN30 Pro
 - Add images of each item to this repository
 ### Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
