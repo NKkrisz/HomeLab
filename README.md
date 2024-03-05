@@ -31,6 +31,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Carbon fibre vinyl wrap my ThinkPad T480s
 - ***Remake my portfolio site (halfway done)***
 - Reset VSCode and Firefox
+- Start Project_Restart
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
