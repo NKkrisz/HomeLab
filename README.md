@@ -27,9 +27,10 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - ***TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)***
 - Maybe try installing a custom ROM to my old tablet
 - Make a blog where I can post my original content
+- ***Remake my portfolio site (halfway done)***
 - ***Maybe try Fedora KDE again on main PC***
 - Carbon fibre vinyl wrap my ThinkPad T480s
-- ***Remake my portfolio site (halfway done)***
+- Make a repository for cybersecurity stuff
 - Reset VSCode and Firefox
 - Start Project_Restart
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
