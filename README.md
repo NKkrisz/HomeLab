@@ -16,11 +16,12 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ### Server
 - ***Make backups of important things to server***
 - Try setting up SyncThing
+- Remove bad drive/s
 - Setup VPN
 ### Upcoming Reviews
 - ***Nullmini ear/head paddings that I've got for the HD580***
 - ***Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (halfway done)***
-- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck, 8BitDo SN30 Pro
+- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - Add images of each item to this repository
 ### Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
@@ -29,7 +30,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a blog where I can post my original content
 - ***Remake my portfolio site (halfway done)***
 - ***Maybe try Fedora KDE again on main PC***
-- Carbon fibre vinyl wrap my ThinkPad T480s
+- ***Carbon fibre vinyl wrap my ThinkPad T480s***
 - Make a repository for cybersecurity stuff
 - Reset VSCode and Firefox
 - Start Project_Restart
