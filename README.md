@@ -13,6 +13,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 ### Steam Deck
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
 - Software modding and undervolting the Steam Deck? (post to r/SteamDeck_2)
+- *Made a comparison between glossy/antiglare screen protectors [(Post on Reddit)](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)*
 ### Server
 - **Make backups of important things to server**
 - Try setting up SyncThing
@@ -30,7 +31,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a blog where I can post my original content
 - **Remake my portfolio site (halfway done)**
 - **Maybe try Fedora KDE again on main PC**
-- *Carbon fiber vinyl wrap my ThinkPad T480s ([Completed](https://www.reddit.com/r/thinkpad/comments/1baoj1g/custom_carbon_fiber_wrapped_my_t480s_diy_guide/))*
+- *Carbon fiber vinyl wrap my ThinkPad T480s [(Completed)](https://www.reddit.com/r/thinkpad/comments/1baoj1g/custom_carbon_fiber_wrapped_my_t480s_diy_guide/)*
 - Make a repository for cybersecurity stuff
 - Reset VSCode and Firefox
 - Start Project_Restart
