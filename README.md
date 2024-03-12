@@ -14,6 +14,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin?
 - Software modding and undervolting the Steam Deck? (post to r/SteamDeck_2)
 - *Made a comparison between glossy/antiglare screen protectors [(Post on Reddit)](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)*
+- Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 ### Server
 - **Make backups of important things to server**
 - Try setting up SyncThing
@@ -34,7 +35,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - *Carbon fiber vinyl wrap my ThinkPad T480s [(Completed)](https://www.reddit.com/r/thinkpad/comments/1baoj1g/custom_carbon_fiber_wrapped_my_t480s_diy_guide/)*
 - Make a repository for cybersecurity stuff
 - Reset VSCode and Firefox
-- Start Project_Restart
+- *Start Project_Restart* -> Start making guides about the topics mentioned there
 ## [ThinkRack](markdown/ThinkRack_Setup.md):
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
