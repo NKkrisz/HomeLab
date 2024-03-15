@@ -6,7 +6,8 @@ Previous Deck got RMA'd by Valve even though I shell swapped it and was out of w
 I lost my transparent front plate because of this (couldn't swap the original back), but I would rather have a working Deck than a bricked Deck.  
 Now that the new one arrived (3rd) I also modified it.  
 I get to reuse the backplate and I also swapped the buttons this time which look pretty pretty cool. Also swapped back from 64GB to the 256GB SSD I upgraded to in the previous one.  
-Thanks Valve :)
+Thanks Valve :)  
+Stuff changed: Switched to Somfoon Glossy Screen Protector, [see comparison here](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)
 
 ## Old Setup
 ![Old Modded Steam Deck](../images/Steam&#32;Deck/PXL_20231224_115010532&#32;-&#32;Copy.jpg)
