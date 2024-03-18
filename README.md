@@ -35,12 +35,12 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - **Nullmini ear/head paddings that I've got for the HD580**
 - Add images of each item to this repository
 ### Other
+- Maybe try Fedora KDE again on main PC (may wait until Fedora 40, but first I have to review the headphones)
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Make a blog where I can post my original content and compile cool things I've done
 - **TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)**
 - Maybe try installing a custom ROM to my old tablet
 - **Remake my portfolio site (halfway done)**
-- **Maybe try Fedora KDE again on main PC**
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
 - Reset VSCode and Firefox
