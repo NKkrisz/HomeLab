@@ -30,7 +30,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Remove bad drive/s
 - Setup VPN
 ### Upcoming Reviews
-- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (halfway done)**
+- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (MY DRAFT GOT DELETED AND NOW I HAVE TO REWRITE IT ALL AGAIN)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - **Nullmini ear/head paddings that I've got for the HD580**
 - Add images of each item to this repository
