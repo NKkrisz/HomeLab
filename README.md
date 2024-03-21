@@ -40,6 +40,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a blog where I can post my original content and compile cool things I've done
 - **TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)**
 - Maybe try installing a custom ROM to my old tablet
+- Make a website for tracking fitness progress
 - **Remake my portfolio site (halfway done)**
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
