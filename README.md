@@ -45,4 +45,4 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
 - Reset VSCode and Firefox
-- Secret Laptop
+- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
