@@ -38,6 +38,8 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Maybe try Fedora KDE again on main PC (may wait until Fedora 40, but first I have to review the headphones)
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Make a blog where I can post my original content and compile cool things I've done
+- Book reading tracker (maybe combine with fitness progress into a single site)
+- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - **TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)**
 - Maybe try installing a custom ROM to my old tablet
 - Make a website for tracking fitness progress
@@ -45,4 +47,3 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
 - Reset VSCode and Firefox
-- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
