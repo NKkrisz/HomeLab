@@ -30,7 +30,7 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Remove bad drive/s
 - Setup VPN
 ### Upcoming Reviews
-- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (MY DRAFT GOT DELETED AND NOW I HAVE TO REWRITE IT ALL AGAIN)**
+- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - **Nullmini ear/head paddings that I've got for the HD580**
 - Add images of each item to this repository
@@ -38,12 +38,12 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Maybe try Fedora KDE again on main PC (may wait until Fedora 40, but first I have to review the headphones)
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Make a blog where I can post my original content and compile cool things I've done
-- Book reading tracker (maybe combine with fitness progress into a single site)
+- Make life progress tracker website (current things: fitness, book reading)
 - **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - **TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)**
 - Maybe try installing a custom ROM to my old tablet
-- Make a website for tracking fitness progress
 - **Remake my portfolio site (halfway done)**
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
+- Make a mix of C418's music
 - Reset VSCode and Firefox
