@@ -45,5 +45,6 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - **Remake my portfolio site (halfway done)**
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
+- Want To Try VR Gaming / Apps
 - Make a mix of C418's music
 - Reset VSCode and Firefox
