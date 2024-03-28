@@ -40,11 +40,12 @@ Below paragraphs lead to detailed texts about how I choose / build / fix / did s
 - Make a blog where I can post my original content and compile cool things I've done
 - Make life progress tracker website (current things: fitness, book reading)
 - **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
+- Maybe try installing a custom ROM to my old tablet (and phone too?)
 - **TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)**
-- Maybe try installing a custom ROM to my old tablet
+- Make a mix of C418's music (try out Reaper/LMMS)
 - **Remake my portfolio site (halfway done)**
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
-- Want To Try VR Gaming / Apps
-- Make a mix of C418's music
-- Reset VSCode and Firefox
+- Make a list of software I like using
+- Reset VSCode, Firefox and my phone
+- Want To Try VR Gaming/Apps
