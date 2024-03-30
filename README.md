@@ -18,7 +18,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
-- **Rename files so they don't contain white spaces**
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)

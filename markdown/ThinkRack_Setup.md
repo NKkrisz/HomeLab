@@ -1,6 +1,7 @@
 # ThinkRack
 
-![Ubiquiti Network Application WebUI](../images/Web&#32;Interfaces/ThinkRack.png)
+![ThinkRack Hardware](../images/ThinkRack_Setup/PXL_20231231_154850692.jpg)
+![Ubiquiti Network Application WebUI](../images/Web_Interfaces/ThinkRack.png)
 
 - Rack: Digitus DN-19 09-U-EC
 - Ubiquiti Networking:

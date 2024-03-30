@@ -1,6 +1,6 @@
 # Proxmox Setup
 
-![Proxmox WebUI](../images/Web&#32;Interfaces/Proxmox.png)
+![Proxmox WebUI](../images/Web_Interfaces/Proxmox.png)
 
 ## Hardware:
 - [Lenovo M720Q MiniPC Setup](./Lenovo_M720Q_Setup.md)

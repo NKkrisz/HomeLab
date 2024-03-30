@@ -1,6 +1,6 @@
 # PC Setup
 
-![My PC](../images/PC&#32;Setup/PXL_20230630_114415949&#32;-&#32;Copy.jpg)
+![My PC](../images/PC_Setup/PXL_20230630_114415949.jpg)
 (This was before I added additional fans and SSD)
 
 ## Main Components:

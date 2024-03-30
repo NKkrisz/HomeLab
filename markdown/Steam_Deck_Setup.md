@@ -1,7 +1,7 @@
 # Steam Deck
 
 ## Current Setup
-![New Modded Steam Deck](../images/Steam%20Deck/PXL_20240204_171112056%20-%20Copy.jpg)
+![New Modded Steam Deck](../images/Steam_Deck/PXL_20240204_171112056.jpg)
 Previous Deck got RMA'd by Valve even though I shell swapped it and was out of warranty (2022 October).  
 I lost my transparent front plate because of this (couldn't swap the original back), but I would rather have a working Deck than a bricked Deck.  
 Now that the new one arrived (3rd) I also modified it.  
@@ -10,7 +10,7 @@ Thanks Valve :)
 Stuff changed: Switched to Somfoon Glossy Screen Protector, [see comparison here](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)
 
 ## Old Setup
-![Old Modded Steam Deck](../images/Steam&#32;Deck/PXL_20231224_115010532&#32;-&#32;Copy.jpg)
+![Old Modded Steam Deck](../images/Steam_Deck/PXL_20231224_115010532.jpg)
 [(Old setup, this one broke and was unable to boot, luckily Valve gave me a new one)](https://www.reddit.com/r/SteamDeck/comments/19aklxn/cant_get_my_deck_to_boot_or_display_anything/)
 - ExtremeRate Black Transparent Shell 
 - Mepatem Case 

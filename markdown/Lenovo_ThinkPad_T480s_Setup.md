@@ -1,6 +1,6 @@
 # Lenovo ThinkPad T480s
 
-![My Laptop](../images/Lenovo&#32;ThinkPad&#32;T480s&#32;Laptop/PXL_20230707_151502569&#32;-&#32;Copy.jpg)
+![My Laptop](../images/Lenovo_ThinkPad_T480s_Laptop/PXL_20230707_151502569.jpg)
 
 ## Main Components:
 - CPU: [Intel (R) Core(TM) i5-8250U CPU @ 1.60Ghz]()

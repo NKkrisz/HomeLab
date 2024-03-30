@@ -1,6 +1,6 @@
 # Lenovo M720Q MiniPC Setup
 
-![Lenovo M720Q](../images/Lenovo&#32;M720Q&#32;MiniPC/PXL_20231226_124333031&#32;-&#32;Copy.jpg)
+![Lenovo M720Q](../images/Lenovo_M720Q_MiniPC/PXL_20231226_124333031.jpg)
 
 - CPU: [Intel i5 8500T (6c/6t)](https://www.intel.com/content/www/us/en/products/sku/129941/intel-core-i58500t-processor-9m-cache-up-to-3-50-ghz/specifications.html)
 - RAM: Ramaxel & Lenovo 2x8GB DDR4 @ 2666MT/s

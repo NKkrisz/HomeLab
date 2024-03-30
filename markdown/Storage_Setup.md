@@ -1,6 +1,6 @@
 # TrueNAS Scale running in Proxmox VM with HBA in PCI-e passthrough
 
-![TrueNAS Scale WebUI](../images/Web&#32;Interfaces/TrueNAS&#32;Scale.png)
+![TrueNAS Scale WebUI](../images/Web_Interfaces/TrueNAS_Scale.png)
 
 ## Hardware:
 - Lenovo M720Q MiniPC
