@@ -25,13 +25,17 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Server
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - **Make backups of important things to server**
+- Upgrade minipc RAM and main drive
 - Add new storage setup details
 - Remove bad drive/s
 - Setup VPN
 ### Main PC / Laptop / Phone
 - Maybe try Fedora KDE again on main PC and perhaps laptop too (may wait until Fedora 40, but first I have to review the headphones)
+- Upgrade laptop screen and make a portable monitor out of the old one
 - Maybe try installing a custom ROM to my old tablet (and phone too?)
+- Upgrade main PC to 32GB RAM, better CPU and GPU
 - Reset VSCode, Firefox and my phone
+- Upgrade laptop storage and RAM
 ### Upcoming Reviews
 - **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
