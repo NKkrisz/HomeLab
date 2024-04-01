@@ -36,6 +36,10 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Upgrade main PC to 32GB RAM, better CPU and GPU
 - Reset VSCode, Firefox and my phone
 - Upgrade laptop storage and RAM
+### Audio Gear
+- Perhaps look into IEMs (TRUTHEAR x Crinacle ZERO: RED, SIMGOT EW200 etc...)
+- Get a portable DAC & AMP combo (currently looking at Fiio KA13)
+- Replace Sennheiser HD580's cables (perhaps 4.4mm balanced)
 ### Upcoming Reviews
 - **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
