@@ -46,6 +46,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Nullmini ear/head paddings that I've got for the HD580**
 - Add images of each item to this repository
 ### Other Repositories / Ideas
+- Xbox Series X Controller Front Plate Swap + Maybe try replacing one of the potentiometers
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Make a blog where I can post my original content and compile cool things I've done
 - Make a "life progress tracker" website (current things: fitness, book reading)
