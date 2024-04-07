@@ -40,6 +40,9 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Get a portable DAC & AMP combo (Fiio KA13 acquired, ordered a leather case for it)**
 - **Perhaps look into IEMs (currently thinking about the SIMGOT EW200)**
 - **Replace Sennheiser HD580's cables (4.4mm balanced, ordered)**
+### Photography Gear
+- Google Pixel 6a for most "everyday" photos
+- Canon EOS 1200D (DSLR) for more detailed shots
 ### Upcoming Reviews
 - **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
