@@ -27,7 +27,10 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Make backups of important things to server**
 - Upgrade minipc RAM and main drive
 - Add new storage setup details
+- Setup Virtual Machines
 - Remove bad drive/s
+- Setup Immich
+- Try Docker
 - Setup VPN
 ### Main PC / Laptop / Phone
 - Maybe try Fedora KDE again on main PC and perhaps laptop too (may wait until Fedora 40, but first I have to review the headphones)
