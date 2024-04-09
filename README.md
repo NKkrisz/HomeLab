@@ -44,23 +44,24 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Perhaps look into IEMs (currently thinking about the SIMGOT EW200)**
 - **Replace Sennheiser HD580's cables (4.4mm balanced, ordered)**
 ### Photography Gear
-- Google Pixel 6a for most "everyday" photos
+- Google Pixel 6a (Phone) for most "everyday" photos
 - Canon EOS 1200D (DSLR) for more detailed shots
 ### Upcoming Reviews
 - **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - **Nullmini ear/head paddings that I've got for the HD580**
 - Add images of each item to this repository
-### Other Repositories / Ideas
-- Xbox Series X Controller Front Plate Swap + Maybe try replacing one of the potentiometers
-- Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
+### Programming / IT Projects
 - Make a blog where I can post my original content and compile cool things I've done
 - Make a "life progress tracker" website (current things: fitness, book reading)
-- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
-- Make a mix of C418's music (try out Reaper/LMMS)
-- Remake my portfolio site (halfway done)
 - Make a repository for cybersecurity stuff
 - Start making things for Project_Restart
+- Remake my portfolio site (halfway done)
+### Ideas / Other
+- Xbox Series X Controller Front Plate Swap + Maybe try replacing one of the potentiometers
+- Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
+- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
+- Make a mix of C418's music (try out Reaper/LMMS)
 - Make a list of software I like using
 - Want To Try VR Gaming/Apps
