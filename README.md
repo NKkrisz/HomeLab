@@ -10,18 +10,19 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Storage Setup](markdown/Storage_Setup.md)
 ## Devices:
 - ### [Lenovo ThinkPad T480s](markdown/Lenovo_ThinkPad_T480s_Setup.md)
-- ### [PC Setup](markdown/PC_Setup.md)
 - ### [Steam Deck](markdown/Steam_Deck_Setup.md)
+- ### [PC Setup](markdown/PC_Setup.md)
 ## Other:
 - ### [3D Model Links](markdown/3D_Model_Links.md)
+- ### [Software I Use](markdown/Software.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
 ### Steam Deck
+- **Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin? [Decky_Audio_Packs Repository WIP](https://github.com/NKkrisz/Decky_Audio_Packs)**
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
-- **Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin? [Decky_Audio_Packs Repository WIP](https://github.com/NKkrisz/Decky_Audio_Packs)**
 ### Server
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - **Make backups of important things to server**
