@@ -41,20 +41,20 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Reset VSCode, Firefox and my phone
 - Upgrade laptop storage and RAM
 ### Audio Gear
+- **Replace the vintage Beyerdynamic DT 880's earpads and do something with the headband (arrived)**
 - **Get a portable DAC & AMP combo (Fiio KA13 acquired, ordered a leather case for it)**
 - Perhaps look into IEMs (currently thinking about the SIMGOT EW200)
 - **Replace Sennheiser HD580's cables (4.4mm balanced, ordered)**
-- **1980's Beyerdynamic DT 880 coming**
 ### Photography Gear
 - Google Pixel 6a (Phone) for most "everyday" photos
 - Canon EOS 1200D (DSLR) for more detailed shots
 ### Upcoming Reviews
-- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B (restart writing it)**
+- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B and Beyerdynamic DT880 (restart writing it)**
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - **Nullmini ear/head paddings that I've got for the HD580**
 - (Add images of each item to this repository)
 ### Programming / IT Projects
-- Open_Blog - Open source, community driven blogging site where you submit articles with pull requests
+- Open_Blog - Open source, community driven tech blogging site where you submit articles with pull requests
 - ^^ Make a blog where I can post my original content and compile cool things I've done ^^
 - Make a "life progress tracker" website (current things: fitness, book reading)
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
