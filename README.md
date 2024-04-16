@@ -55,6 +55,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - (Add images of each item to this repository)
 ### Programming / IT Projects
 - Open_Blog - Open source, community driven tech blogging site where you submit articles with pull requests
+    - Will make the process smoother in the future, but need to work out the basics first like responsive design and good readability
 - ^^ Make a blog where I can post my original content and compile cool things I've done ^^
 - Make a "life progress tracker" website (current things: fitness, book reading)
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
