@@ -24,6 +24,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 ### Server
+- Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - **Make backups of important things to server**
 - Upgrade minipc RAM and main drive
@@ -67,5 +68,4 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - Make a mix of C418's music (try out Reaper/LMMS)
-- Make a list of software I like using
 - Want To Try VR Gaming/Apps
