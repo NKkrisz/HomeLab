@@ -1,5 +1,21 @@
 # Steam Deck
 
+## Why I Chose The Steam Deck:
+- Most affordable x64 gaming handheld
+    - I've been a PC only gamer ever since I was a little kid
+- Powerful enough for my games (mostly play indies)
+    - Though battery is sometimes lacking for more demanding games which is fixed on the OLED Deck
+- Wide variety of input options (especially the trackpads)
+    - Very useful if you can tinker with Steam Input and while using Desktop Mode
+- Open operating system (runs SteamOS which is Linux under the hood)
+    - Want to support Linux hardware and want to see it's market share rise
+- Easily repairable or moddable (see below)
+    - Parts being readily available on iFixit is just great
+- Great community and manufacturer who I want to support
+    - [Come to r/SteamDeck_2!](https://www.reddit.com/r/SteamDeck_2)
+- Already owned games on Steam, still can use other launchers if needed
+    - Also emulating on this device is awesome using EmuDeck but I don't do that
+
 ## Current Setup
 ![New Modded Steam Deck](../images/Steam_Deck/PXL_20240204_171112056.jpg)
 Previous Deck got RMA'd by Valve even though I shell swapped it and was out of warranty (2022 October).  
