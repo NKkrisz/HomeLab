@@ -13,12 +13,14 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Steam Deck](markdown/Steam_Deck_Setup.md)
 - ### [PC Setup](markdown/PC_Setup.md)
 ## Other:
+- ### [Milestones](markdown/Milestones.md)
 - ### [3D Model Links](markdown/3D_Model_Links.md)
 - ### [Software I Use](markdown/Software.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
+- Make a history thing of my past homelab / projects!
 ### Steam Deck
 - **Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin? [Decky_Audio_Packs Repository WIP](https://github.com/NKkrisz/Decky_Audio_Packs)**
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
