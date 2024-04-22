@@ -44,9 +44,9 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Reset VSCode, Firefox and my phone
 - Upgrade laptop storage and RAM
 ### Audio Gear
+- **Replace Sennheiser HD580's cables --> somewhat fixed the connectors coating using a permanent pen and an eraser**
 - **Replace the vintage Beyerdynamic DT 880's earpads and do something with the headband (arrived)**
 - **Get a portable DAC & AMP combo (Fiio KA13 acquired, ordered a leather case for it)**
-- **Replace Sennheiser HD580's cables (arrived, but the connectors are damaged)**
 - Perhaps look into IEMs (currently thinking about the SIMGOT EW200)
 ### Photography Gear
 - Google Pixel 6a (Phone) for most "everyday" photos
