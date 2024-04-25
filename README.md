@@ -45,15 +45,15 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Reset VSCode, Firefox and my phone
 - Upgrade laptop storage and RAM
 ### Audio Gear
-- **Replace Sennheiser HD580's cables --> somewhat fixed the connectors coating using a permanent pen and an eraser**
+- **Replace Sennheiser HD580's cables, post pictures**
 - **Replace the vintage Beyerdynamic DT 880's earpads and do something with the headband (arrived)**
-- **Get a portable DAC & AMP combo (Fiio KA13 acquired, ordered a leather case for it)**
+- **Fiio KA13 with leather case acquired, post pictures**
 - Perhaps look into IEMs (currently thinking about the SIMGOT EW200)
 ### Photography Gear
 - Google Pixel 6a (Phone) for most "everyday" photos
 - Canon EOS 1200D (DSLR) for more detailed shots
 ### Upcoming Reviews
-- **Sennheiser HD580 Precision Headphones and compare to Superlux HD681B and Beyerdynamic DT880 (restart writing it)**
+- Sennheiser HD580 Precision Headphones and compare to Superlux HD681B and Beyerdynamic DT880 (restart writing it)
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
 - **Nullmini ear/head paddings that I've got for the HD580**
 - (Add images of each item to this repository)
@@ -67,7 +67,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Remake my portfolio site (halfway done)
 - Start making things for Project_Restart
 ### Ideas / Other
-- Xbox Series X Controller Front Plate Swap + Maybe try replacing one of the potentiometers
+- **Xbox Series X Controller Front Plate Swap (Done, post pictures)**
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - Make a mix of C418's music (try out Reaper/LMMS)
