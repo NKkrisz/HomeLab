@@ -48,7 +48,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Replace Sennheiser HD580's cables, post pictures**
 - **Replace the vintage Beyerdynamic DT 880's earpads and do something with the headband (arrived)**
 - **Fiio KA13 with leather case acquired, post pictures**
-- Perhaps look into IEMs (currently thinking about the SIMGOT EW200)
+- **Simgot EW200 maybe coming**
 ### Photography Gear
 - Google Pixel 6a (Phone) for most "everyday" photos
 - Canon EOS 1200D (DSLR) for more detailed shots
