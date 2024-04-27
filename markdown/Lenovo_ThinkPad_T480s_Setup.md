@@ -1,5 +1,14 @@
 # Lenovo ThinkPad T480s
 
+## Why Choose A ThinkPad?
+- Durable and repairable (maybe even upgradeable!)
+- Great keyboard and trackpoint is useful sometimes
+- Can be found on the used market for a good price (avoid low resolution panels though)
+- Great community on [r/ThinkPad](https://www.reddit.com/r/thinkpad/) in case you have some questions or ideas
+- Just looks good in my opinion, I even carbon fiber wrapped mine
+- Works okay with Linux (fingerprint reader on some models like mine can have some issues)
+- Great port selection (at least on my T480s)
+
 ![My Laptop](../images/Lenovo_ThinkPad_T480s_Laptop/PXL_20230707_151502569.jpg)
 
 ## Main Components:
