@@ -70,5 +70,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Xbox Series X Controller Front Plate Swap (Done, post pictures)**
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
+- Long video (perhaps series) idea with music and nature involved
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want To Try VR Gaming/Apps
