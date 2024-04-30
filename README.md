@@ -22,6 +22,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
 - **Make a history thing of my past homelab / projects!**
+- Make a list of websites I like to use
 ### Steam Deck
 - **Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin? [Decky_Audio_Packs Repository WIP](https://github.com/NKkrisz/Decky_Audio_Packs)**
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
@@ -45,10 +46,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Reset VSCode, Firefox and my phone
 - Upgrade laptop storage and RAM
 ### Audio Gear
-- **Replace Sennheiser HD580's cables, post pictures**
-- **Replace the vintage Beyerdynamic DT 880's earpads and do something with the headband (arrived)**
-- **Fiio KA13 with leather case acquired, post pictures**
-- **Simgot EW200 maybe coming**
+- Post pictures:
+    - Sennheiser HD580 and it's replaced cables
+    - Fiio KA13 with leather case
+    - Beyerdynamic DT 880
+    - Simgot EW200
+- Replace the vintage Beyerdynamic DT 880's earpads
 ### Photography Gear
 - Google Pixel 6a (Phone) for most "everyday" photos
 - Canon EOS 1200D (DSLR) for more detailed shots
