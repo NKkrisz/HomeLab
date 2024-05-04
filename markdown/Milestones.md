@@ -8,3 +8,6 @@
 
 ## GitHub Stars and Watchers
 - 2024/04/21 - 12 Stars and 2 Watchers (One is me in both lol)
+- 2024/05/04 - 24 Stars and 2 Watchers
+    - [I posted my HomeLab to Hacker News!](https://news.ycombinator.com/item?id=40252740)
+    - [Earned Starstruck achievement on GitHub](https://github.com/users/NKkrisz/achievements/starstruck)
