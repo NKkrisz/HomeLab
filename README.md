@@ -26,7 +26,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Make a history thing of my past homelab / projects!**
 - **Make a list of websites I like to use**
 ### Steam Deck
-- **Add some of C418's music to the Steam Deck "Decky" Audio Loader plugin? [Decky_Audio_Packs Repository WIP](https://github.com/NKkrisz/Decky_Audio_Packs)**
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 ### Server
