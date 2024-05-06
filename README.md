@@ -8,10 +8,20 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Lenovo M720Q MiniPC Setup](markdown/Lenovo_M720Q_Setup.md)
 - ### [Proxmox Setup](markdown/Proxmox_Setup.md)
 - ### [Storage Setup](markdown/Storage_Setup.md)
-## Devices:
+## Devices / Gear I Use:
 - ### [Lenovo ThinkPad T480s](markdown/Lenovo_ThinkPad_T480s_Setup.md)
 - ### [Steam Deck](markdown/Steam_Deck_Setup.md)
 - ### [PC Setup](markdown/PC_Setup.md)
+- ### Google Pixel 6a (Phone) for everyday use and quick photos
+- ### Canon EOS 1200D (DSLR) for more detailed pictures
+- ### Fiio KA13 DAC/AMP Dongle
+- ### Headphones:
+    - Sennheiser HD580 Precision
+    - Beyerdynamic DT880 (Vintage)
+    - Superlux HD681B
+- ### Earphones
+    - Sony LinkBuds S (TWS)
+    - Simgot EW200 (IEM)
 ## Other:
 - ### [Milestones](markdown/Milestones.md)
 - ### [History](markdown/History.md)
@@ -53,9 +63,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 - Replace the vintage Beyerdynamic DT 880's earpads
-### Photography Gear
-- Google Pixel 6a (Phone) for most "everyday" photos
-- Canon EOS 1200D (DSLR) for more detailed shots
 ### Upcoming Reviews
 - Sennheiser HD580 Precision Headphones and compare to Superlux HD681B and Beyerdynamic DT880 (restart writing it)
 - Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
