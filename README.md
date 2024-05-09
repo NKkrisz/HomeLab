@@ -41,6 +41,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Server
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
+- Got 2 "new" Seagate Barracuda 2TB drives I need to install
 - **Make backups of important things to server**
 - Upgrade minipc RAM and main drive
 - Add new storage setup details
