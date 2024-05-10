@@ -86,4 +86,5 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Learn some video and photo editing
     - Davinci Resolve?
+- Take some cool night photos tonight (solar storm, aurora)
 - Want To Try VR Gaming/Apps
