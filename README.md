@@ -51,11 +51,11 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Try Docker
 - Setup VPN
 ### Main PC / Laptop / Phone
-- Maybe try Fedora KDE again on main PC and perhaps laptop too (may wait until Fedora 40, but first I have to review the headphones)
+- **Installed Fedora 40 KDE Spin on main PC, reinstallation and reconfiguration of stuff needed**
 - Upgrade laptop screen and make a portable monitor out of the old one
 - Maybe try installing a custom ROM to my old tablet (and phone too?)
 - Upgrade main PC to 32GB RAM, better CPU and GPU
-- Reset VSCode, Firefox and my phone
+- **Reset VSCode, Firefox**
 - Upgrade laptop storage and RAM
 ### Audio Gear
 - Post pictures:
