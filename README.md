@@ -10,24 +10,16 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Storage Setup](markdown/Storage_Setup.md)
 ## Devices / Gear I Use:
 - ### [Lenovo ThinkPad T480s](markdown/Lenovo_ThinkPad_T480s_Setup.md)
+- ### [Photography Gear](markdown/Photography_Gear.md)
 - ### [Steam Deck](markdown/Steam_Deck_Setup.md)
+- ### [Audio Gear](markdown/Audio_Gear.md)
 - ### [PC Setup](markdown/PC_Setup.md)
-- ### Google Pixel 6a (Phone) for everyday use and quick photos
-- ### Canon EOS 1200D (DSLR) for more detailed pictures
-- ### Fiio KA13 DAC/AMP Dongle
-- ### Headphones:
-    - Sennheiser HD580 Precision
-    - Beyerdynamic DT880 (Vintage)
-    - Superlux HD681B
-- ### Earphones
-    - Sony LinkBuds S (TWS)
-    - Simgot EW200 (IEM)
 ## Other:
-- ### [Milestones](markdown/Milestones.md)
-- ### [History](markdown/History.md)
 - ### [3D Model Links](markdown/3D_Model_Links.md)
 - ### [Software I Use](markdown/Software.md)
-- ### [Websites I use](markdown/Websites.md)
+- ### [Websites I Use](markdown/Websites.md)
+- ### [Milestones](markdown/Milestones.md)
+- ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
 - Try adding prices to each item, what state they were bought in (new / used), when I bought them and categorize them (into a spreadsheet perhaps?)
