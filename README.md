@@ -79,4 +79,5 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Learn some video and photo editing
     - Davinci Resolve?
 - Take some cool night photos tonight (solar storm, aurora)
+- Thinking about getting into vinyl
 - Want To Try VR Gaming/Apps
