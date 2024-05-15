@@ -27,9 +27,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Add a markdown file linking to guides I made or copy them over to here
 - **Make a history thing of my past homelab / projects!**
 - **Make a list of websites I like to use**
-### Steam Deck
-- Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
-- Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 ### Server
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
@@ -42,25 +39,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Setup Immich
 - Try Docker
 - Setup VPN
-### Main PC / Laptop / Phone
-- **Installed Fedora 40 KDE Spin on main PC, reinstallation and reconfiguration of stuff needed**
-- Upgrade laptop screen and make a portable monitor out of the old one
-- Maybe try installing a custom ROM to my old tablet (and phone too?)
-- Upgrade main PC to 32GB RAM, better CPU and GPU
-- **Reset VSCode, Firefox**
-- Upgrade laptop storage and RAM
-### Audio Gear
-- Post pictures:
-    - Sennheiser HD580 and it's replaced cables
-    - Fiio KA13 with leather case
-    - Beyerdynamic DT 880
-    - Simgot EW200
-- Replace the vintage Beyerdynamic DT 880's earpads
-### Upcoming Reviews
-- Sennheiser HD580 Precision Headphones and compare to Superlux HD681B and Beyerdynamic DT880 (restart writing it)
-- Maybe category: ThinkPad T480s, Sony LinkBuds S, Pixel 6a, Steam Deck
-- **Nullmini ear/head paddings that I've got for the HD580**
-- (Add images of each item to this repository)
 ### Programming / IT Projects
 - Open_Blog - Open source, community driven tech blogging site where you submit articles with pull requests
     - Will make the process smoother in the future, but need to work out the basics first like responsive design and good readability
@@ -70,14 +48,40 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make a repository for cybersecurity stuff
 - Remake my portfolio site (halfway done)
 - Start making things for Project_Restart
+### Main PC / Laptop / Phone
+- Upgrade laptop screen and make a portable monitor out of the old one
+- Maybe try installing a custom ROM to my old tablet (and phone too?)
+- Upgrade main PC to 32GB RAM, better CPU and GPU
+- Reset phone, maybe install custom ROM or root it
+- Upgrade laptop storage and RAM
+### Steam Deck
+- Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
+- Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
+### Audio Gear
+- Replace the vintage Beyerdynamic DT 880's earpads
+### Upcoming Reviews
+- Sennheiser HD580 Precision Headphones and compare to Beyerdynamic DT880
+- Nullmini ear/head paddings that I've got for the HD580
+- Maybe category:
+    - Valve Steam Deck (LCD)
+    - Sony LinkBuds S
+    - Google Pixel 6a
+    - ThinkPad T480s
+### Upload Media
+- Cool night photos caused by a solar storm - aurora (images)
+- Apple Macintosh PowerBook 190 (images and maybe video)
+- Xbox Series X Controller Front Plate Swap (images)
+- Images of each item mentioned in this repository
+    - Audio Gear:
+        - Sennheiser HD580 and it's replaced cables
+        - Fiio KA13 with leather case
+        - Beyerdynamic DT 880
+        - Simgot EW200
 ### Ideas / Other
-- **Xbox Series X Controller Front Plate Swap (Done, post pictures)**
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
-- **Apple Macintosh PowerBook 190 (pictures and perhaps video soon)**
 - Long video (perhaps series) idea with music and nature involved
+- Thinking about getting into vinyl - ordered 2 albums
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Learn some video and photo editing
     - Davinci Resolve?
-- Take some cool night photos tonight (solar storm, aurora)
-- Thinking about getting into vinyl
 - Want To Try VR Gaming/Apps
