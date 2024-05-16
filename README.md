@@ -58,7 +58,9 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 ### Audio Gear
+- Have two ideas for frame designs to display the ordered albums
 - Replace the vintage Beyerdynamic DT 880's earpads
+- Ordered 2 vinyl albums, need a record player
 ### Upcoming Reviews
 - Sennheiser HD580 Precision Headphones and compare to Beyerdynamic DT880
 - Nullmini ear/head paddings that I've got for the HD580
@@ -80,8 +82,8 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
-- Thinking about getting into vinyl - ordered 2 albums
 - Make a mix of C418's music (try out Reaper/LMMS)
+- Make a simracing setup (or just get a wheel)
 - Learn some video and photo editing
     - Davinci Resolve?
 - Want To Try VR Gaming/Apps
