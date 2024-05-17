@@ -21,12 +21,13 @@
 - IntelliJ IDEA - Java
 
 ### Recording
-- Nvidia Instant Replay
+- Nvidia Instant Replay (Windows) / GPU Screen Recorder (Linux)
 - DroidCam
 - Audacity
 - OBS
 
 ### Gaming
+- ProtonUp-QT - Tool to install different Proton variations
 - Heroic Games Launcher - Linux gaming
 - Prism Launcher - Minecraft
 - Bakkesmod - Rocket League
@@ -34,16 +35,20 @@
 - Steam
 
 ### 3D Modelling
-- Autodesk Fusion 360
+- Autodesk Fusion 360 (CAD)
+- Blender (Generic)
 
 ### Overclocking
 - MSI Afterburner
 
+### System Management / Improvements
+- btop - A monitor of resources
+
 ## Phone (Android)
 
 ### Application patchers
-- Revanced Manager - Social media application patches
-- xManager - Spotify patcher
+- Revanced Manager - Social media application patcher
+- xManager, SpotX - Spotify patchers
 
 ### Media
 - Soundbound - Music downloader and player
