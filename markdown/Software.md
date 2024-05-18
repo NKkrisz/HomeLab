@@ -1,6 +1,6 @@
 # Software I use
 
-## All devices
+## General
 
 ### Media
 - Spotify - Music
@@ -11,6 +11,14 @@
 
 ### Communication
 - Discord
+
+### Operating Systems
+- Windows 11 Pro (Lenovo ThinkPad T480s)
+- Fedora 40 KDE Spin (Main PC)
+- Android 14 (Google Pixel 6a)
+- Proxmox (On Server MiniPC)
+    - TrueNAS Scale (Running as a virtual machine)
+- SteamOS 3 (Steam Deck)
 
 ## Main PC / Laptop / Steam Deck
 
