@@ -31,8 +31,10 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - Got 2 "new" Seagate Barracuda 2TB drives I need to install
+- Upgrade minipc RAM (32/64GB) and main drive (1TB+)
+- Maybe try OpenMediaVault instead of TrueNAS Scale
 - **Make backups of important things to server**
-- Upgrade minipc RAM and main drive
+- Try making HDDs less noisy in some way
 - Add new storage setup details
 - Setup Virtual Machines
 - Remove bad drive/s
