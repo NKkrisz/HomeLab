@@ -61,6 +61,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
+- Write down my audio journey so far (what gear I use etc...)
 - Replace the vintage Beyerdynamic DT 880's earpads
 - Ordered 2 vinyl albums, need a record player
 ### Upcoming Reviews
