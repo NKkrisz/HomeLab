@@ -22,7 +22,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
-- Try adding prices to each item, what state they were bought in (new / used), when I bought them and categorize them (into a spreadsheet perhaps?)
+- **Try adding prices to each item, what state they were bought in (new / used), when I bought them and categorize them (into a spreadsheet perhaps?)**
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
 - **Make a history thing of my past homelab / projects!**
