@@ -22,11 +22,10 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
-- **Try adding prices to each item, what state they were bought in (new / used), when I bought them and categorize them (into a spreadsheet perhaps?)**
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - Add a markdown file linking to guides I made or copy them over to here
-- **Make a history thing of my past homelab / projects!**
-- **Make a list of websites I like to use**
+- **Make a history thing of my past homelabs / projects!**
+- **Fill in purchases spreadsheet with data**
 ### Server
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
@@ -59,6 +58,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
+- Maybe do shell swap again or just apply a skin to the front
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
