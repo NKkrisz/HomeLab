@@ -59,6 +59,8 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 - Maybe do shell swap again or just apply a skin to the front
+- Replace joysticks to hall-effect ones
+- Repaste APU for better cooling
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
