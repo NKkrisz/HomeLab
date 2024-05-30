@@ -67,6 +67,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Replace the vintage Beyerdynamic DT 880's earpads
 - Ordered 2 vinyl albums, need a record player
 - Need something to store / show my collection
+- Maybe get a new microphone
 ### Upcoming Reviews
 - Sennheiser HD580 Precision Headphones and compare to Beyerdynamic DT880
 - Nullmini ear/head paddings that I've got for the HD580
@@ -93,3 +94,4 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Learn some video and photo editing
     - Davinci Resolve?
 - Want To Try VR Gaming/Apps
+- 3D print some decorations
