@@ -81,11 +81,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Apple Macintosh PowerBook 190 (images and maybe video)
 - Xbox Series X Controller Front Plate Swap (images)
 - Images of each item mentioned in this repository
-    - Audio Gear:
-        - Sennheiser HD580 and it's replaced cables
-        - Fiio KA13 with leather case
-        - Beyerdynamic DT 880
-        - Simgot EW200
+- Upload up-to-date PC setup
+- Audio Gear:
+    - Sennheiser HD580 and it's replaced cables
+    - Fiio KA13 with leather case
+    - Beyerdynamic DT 880
+    - Simgot EW200
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
