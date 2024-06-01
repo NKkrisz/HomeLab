@@ -87,6 +87,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Fiio KA13 with leather case
     - Beyerdynamic DT 880
     - Simgot EW200
+### To Purchase
+- Honeywell PTM 7950 Phase Change Thermal Pads
+- 3.5" / 2.5" HDD / SSD and M.2 NVMe Enclosure
+- Brushes for cleaning electronics
+- Skin for Steam Deck
+- Earpads for DT 880
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
