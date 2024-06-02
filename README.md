@@ -88,6 +88,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### To Purchase
+- Hall-effect joystick replacement for Xbox controller and Steam Deck
 - Honeywell PTM 7950 Phase Change Thermal Pads
 - 3.5" / 2.5" HDD / SSD and M.2 NVMe Enclosure
 - Brushes for cleaning electronics
