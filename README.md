@@ -57,10 +57,11 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Upgrade laptop storage and RAM
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
+- Re-tighten right trackpad screws because the trackpad vibrates incorrectly
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 - Maybe do shell swap again or just apply a skin to the front
+- Repaste APU for better cooling - do thermal tests
 - Replace joysticks to hall-effect ones
-- Repaste APU for better cooling
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
