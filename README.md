@@ -99,6 +99,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
 - Make a mix of C418's music (try out Reaper/LMMS)
+- Want to make some videos after exams are over
 - Make a simracing setup (or just get a wheel)
 - Learn some video and photo editing
     - Davinci Resolve?
