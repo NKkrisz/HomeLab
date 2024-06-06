@@ -57,6 +57,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Upgrade laptop storage and RAM
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
+- Want to swap in OLED's trackpads and joysticks into my LCD Deck, can't get parts...
 - Re-tighten right trackpad screws because the trackpad vibrates incorrectly
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 - Maybe do shell swap again or just apply a skin to the front
