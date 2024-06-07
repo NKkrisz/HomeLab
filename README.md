@@ -90,12 +90,13 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### To Purchase
-- Hall-effect joystick replacement for Xbox controller and Steam Deck
-- Honeywell PTM 7950 Phase Change Thermal Pads
-- 3.5" / 2.5" HDD / SSD and M.2 NVMe Enclosure
-- Brushes for cleaning electronics
-- Skin for Steam Deck
-- Earpads for DT 880
+- **Hall-effect joystick replacement for Xbox controller and Steam Deck**
+- **Honeywell PTM 7950 Phase Change Thermal Pads**
+- **3.5" / 2.5" HDD / SSD and M.2 NVMe Enclosure**
+- **Monochrome buttons for Xbox controller**
+- **Brushes for cleaning electronics**
+- **Skin for Steam Deck**
+- **Earpads for DT 880**
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
