@@ -26,12 +26,13 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Add a markdown file linking to guides I made or copy them over to here
 - **Make a history thing of my past homelabs / projects!**
 - **Fill in purchases spreadsheet with data**
-### Server
+### ThinkRack
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - Got 2 "new" Seagate Barracuda 2TB drives I need to install
 - Upgrade minipc RAM (32/64GB) and main drive (1TB+)
 - Maybe try OpenMediaVault instead of TrueNAS Scale
+- Get rack shelves for networking stuff and minipc
 - **Make backups of important things to server**
 - Try making HDDs less noisy in some way
 - Add new storage setup details
@@ -83,6 +84,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Apple Macintosh PowerBook 190 (images and maybe video)
 - Xbox Series X Controller Front Plate Swap (images)
 - Images of each item mentioned in this repository
+- Updated layout of ThinkRack
 - Upload up-to-date PC setup
 - Audio Gear:
     - Sennheiser HD580 and it's replaced cables
