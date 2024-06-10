@@ -18,12 +18,13 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [3D Model Links](markdown/3D_Model_Links.md)
 - ### [Software I Use](markdown/Software.md)
 - ### [Websites I Use](markdown/Websites.md)
+- ### [Guides I Made](markdown/Guides.md)
 - ### [Milestones](markdown/Milestones.md)
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
-- Add a markdown file linking to guides I made or copy them over to here
+- **Add a markdown file linking to guides I made or copy them over to here**
 - **Make a history thing of my past homelabs / projects!**
 - **Fill in purchases spreadsheet with data**
 ### ThinkRack
