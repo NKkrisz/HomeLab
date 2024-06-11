@@ -52,10 +52,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Remake my portfolio site (halfway done)
 - Start making things for Project_Restart
 ### Main PC / Laptop / Phone
+- Maybe make a split keyboard (78% keyboard, arrow keys and function row and not fully wireless)
 - Upgrade laptop screen and make a portable monitor out of the old one
 - Maybe try installing a custom ROM to my old tablet (and phone too?)
 - Upgrade main PC to 32GB RAM, better CPU and GPU
 - Reset phone, maybe install custom ROM or root it
+- Maybe swap laptop keyboard to US layout
 - Upgrade laptop storage and RAM
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
