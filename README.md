@@ -51,6 +51,8 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make a repository for cybersecurity stuff
 - Remake my portfolio site (halfway done)
 - Start making things for Project_Restart
+- Start making [Unified-Diagrams](https://github.com/NKkrisz/Unified-Diagrams)
+- Start making [E-Hoarder](https://github.com/NKkrisz/E-Hoarder)
 ### Main PC / Laptop / Phone
 - Maybe make a split keyboard (78% keyboard, arrow keys and function row and not fully wireless)
 - Upgrade laptop screen and make a portable monitor out of the old one
