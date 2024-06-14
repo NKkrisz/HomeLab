@@ -51,7 +51,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make a repository for cybersecurity stuff
 - Remake my portfolio site (halfway done)
 - Start making things for Project_Restart
-- Start making [Unified-Diagrams](https://github.com/NKkrisz/Unified-Diagrams)
+- **Start making [Unified-Diagrams](https://github.com/NKkrisz/Unified-Diagrams)**
 - Start making [E-Hoarder](https://github.com/NKkrisz/E-Hoarder)
 ### Main PC / Laptop / Phone
 - Maybe make a split keyboard (78% keyboard, arrow keys and function row and not fully wireless)
@@ -61,6 +61,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Reset phone, maybe install custom ROM or root it
 - Maybe swap laptop keyboard to US layout
 - Upgrade laptop storage and RAM
+- Get second monitor for PC
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Want to swap in OLED's trackpads and joysticks into my LCD Deck, can't get parts...
@@ -72,7 +73,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
-- Replace the vintage Beyerdynamic DT 880's earpads
+- **[Replaced the vintage Beyerdynamic DT 880's earpads](https://www.reddit.com/r/headphones/comments/1dftozn/my_vintage_beyerdynamic_dt_880/)**
 - Ordered 2 vinyl albums, need a record player
 - Need something to store / show my collection
 - Maybe get a new microphone
@@ -96,14 +97,8 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Fiio KA13 with leather case
     - Beyerdynamic DT 880
     - Simgot EW200
-### To Purchase
-- **Hall-effect joystick replacement for Xbox controller and Steam Deck**
-- **Honeywell PTM 7950 Phase Change Thermal Pads**
-- **3.5" / 2.5" HDD / SSD and M.2 NVMe Enclosure**
-- **Monochrome buttons for Xbox controller**
-- **Brushes for cleaning electronics**
-- **Skin for Steam Deck**
-- **Earpads for DT 880**
+### Intending To Purchase Soon
+- New microphone
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - Long video (perhaps series) idea with music and nature involved
