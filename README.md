@@ -67,8 +67,8 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Want to swap in OLED's trackpads and joysticks into my LCD Deck, can't get parts...
 - Re-tighten right trackpad screws because the trackpad vibrates incorrectly
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
-- Maybe do shell swap again or just apply a skin to the front
-- Repaste APU for better cooling - do thermal tests
+- **Maybe do shell swap again or just apply a skin to the front**
+- **Repaste APU for better cooling - do thermal tests**
 - Replace joysticks to hall-effect ones
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
@@ -101,6 +101,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - New microphone
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
+- **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
 - Long video (perhaps series) idea with music and nature involved
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
