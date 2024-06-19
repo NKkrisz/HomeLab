@@ -70,12 +70,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Maybe do shell swap again or just apply a skin to the front**
 - **Repaste APU for better cooling - do thermal tests**
 - Replace joysticks to hall-effect ones
-- **Will try repairing a faulty Deck**
-    - If I can't repair it:
-        - Swap antiglare screen into my already existing Deck
-        - Maybe try making a clone of the OLED joysticks
-        - Swap 512GB SSD into already existing Deck
-        - Sell it as parts
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
