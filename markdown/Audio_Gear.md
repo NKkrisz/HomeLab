@@ -1,10 +1,13 @@
 # Audio Gear
-## DACs & Amps
+## DACs & Amps:
 - Fiio KA13 DAC/AMP Dongle
 ## Headphones:
-- Sennheiser HD580 Precision
 - Beyerdynamic DT880 (Vintage)
+- Sennheiser HD580 Precision
 - Superlux HD681B
-## Earphones
+## Earphones:
 - Sony LinkBuds S (TWS)
 - Simgot EW200 (IEM)
+## Microphones:
+- RØDE VideoMic Me (3.5mm jack version)
+- Hama uRage Stream 100 USB
