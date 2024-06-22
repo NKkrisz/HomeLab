@@ -98,7 +98,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### Intending To Purchase Soon
-- New microphone
+- HDMI Capture Card
+- Microphone stuff
+- Soldering iron
+- Camera stuff
+- Adapters
+- Cables
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
