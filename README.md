@@ -69,14 +69,13 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
 - **Maybe do shell swap again or just apply a skin to the front**
 - **Repaste APU for better cooling - do thermal tests**
+- **Vibration motor upgrade using Joycon parts**
 - Replace joysticks to hall-effect ones
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
-- **[Replaced the vintage Beyerdynamic DT 880's earpads](https://www.reddit.com/r/headphones/comments/1dftozn/my_vintage_beyerdynamic_dt_880/)**
-- Ordered 2 vinyl albums, need a record player
 - Need something to store / show my collection
-- Maybe get a new microphone
+- Need a record player
 ### Upcoming Reviews
 - Sennheiser HD580 Precision Headphones and compare to Beyerdynamic DT880
 - Nullmini ear/head paddings that I've got for the HD580
@@ -98,12 +97,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### Intending To Purchase Soon
-- HDMI Capture Card
-- Microphone stuff
+- **HDMI Capture Card**
+- **Microphone stuff**
 - Soldering iron
-- Camera stuff
-- Adapters
-- Cables
+- **Camera stuff**
+- **Adapters**
+- **Cables**
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
