@@ -97,23 +97,20 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### Intending To Purchase Soon
-- **HDMI Capture Card**
-- **Microphone stuff**
-- Soldering iron
-- **Camera stuff**
-- **Adapters**
-- **Cables**
+- **Wheel and pedals for simracing**
+- **SD Card (For Camera)**
 ### Ideas / Other
 - Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
 - **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
 - Long video (perhaps series) idea with music and nature involved
+- **Want To Try VR Gaming/Apps (Got an Oculus Rift)**
 - Figure out how to connect a microphone to a DSLR
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
-- Make a simracing setup (or just get a wheel)
+- **Make a simracing setup (or just get a wheel)**
 - **Learn some video and photo editing**
     - Davinci Resolve?
 - **Start making content on Youtube**
-- Want To Try VR Gaming/Apps
 - 3D print some decorations
+- Setup Youtube Channel
