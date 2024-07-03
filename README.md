@@ -108,7 +108,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Figure out how to connect a microphone to a DSLR
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
-- **Make a simracing setup (or just get a wheel)**
+- **Make a simracing setup (Got a Thrustmaster TMX)**
 - **Learn some video and photo editing**
     - Davinci Resolve?
 - **Start making content on Youtube**
