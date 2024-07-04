@@ -31,11 +31,12 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Most likely redo everything in the network and on the server (clean it up and make it secure)
 - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
 - Got 2 "new" Seagate Barracuda 2TB drives I need to install
-- Upgrade minipc RAM (32/64GB) and main drive (1TB+)
+- Upgrade minipc RAM (32GB/64GB) and main drive (1TB+)
 - Maybe try OpenMediaVault instead of TrueNAS Scale
 - Get rack shelves for networking stuff and minipc
 - **Make backups of important things to server**
 - Try making HDDs less noisy in some way
+- Make the two rack fans controllable
 - Add new storage setup details
 - Setup Virtual Machines
 - Remove bad drive/s
@@ -97,18 +98,15 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### Intending To Purchase Soon
-- **Wheel and pedals for simracing**
 - **SD Card (For Camera)**
 ### Ideas / Other
-- Update VanillaQOL Minecraft (Modrinth) modpack once Iris supports Distant Horizons
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
 - **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
 - Long video (perhaps series) idea with music and nature involved
-- **Want To Try VR Gaming/Apps (Got an Oculus Rift)**
+- Update VanillaQOL To 1.21 and add Distant Horizons
 - Figure out how to connect a microphone to a DSLR
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
-- **Make a simracing setup (Got a Thrustmaster TMX)**
 - **Learn some video and photo editing**
     - Davinci Resolve?
 - **Start making content on Youtube**
