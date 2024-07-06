@@ -78,8 +78,11 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Need something to store / show my collection
 - Need a record player
 ### Upcoming Reviews
-- Sennheiser HD580 Precision Headphones and compare to Beyerdynamic DT880
-- Nullmini ear/head paddings that I've got for the HD580
+- Nullmini ear/head paddings for all of my headphones that have them
+- Gulikit TMR and Ginful (V3?) Joystick replacements
+- Sennheiser HD580 Precision
+- Beyerdynamic DT880
+- Superlux HD681B
 - Maybe category:
     - Valve Steam Deck (LCD)
     - Sony LinkBuds S
