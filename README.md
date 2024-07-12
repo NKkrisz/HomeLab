@@ -66,12 +66,13 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Steam Deck
 - Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
 - Want to swap in OLED's trackpads and joysticks into my LCD Deck, can't get parts...
-- Re-tighten right trackpad screws because the trackpad vibrates incorrectly
-- Undervolting or overclocking the Steam Deck? (post to r/SteamDeck_2)
+- **Re-tighten right trackpad screws because the trackpad vibrates incorrectly**
 - **Maybe do shell swap again or just apply a skin to the front**
 - **Repaste APU for better cooling - do thermal tests**
+- **Undervolting or overclocking the Steam Deck?**
 - **Vibration motor upgrade using Joycon parts**
 - Replace joysticks to hall-effect ones
+- **Try getting a faulty Deck again**
 ### Audio Gear
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
@@ -114,4 +115,4 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Davinci Resolve?
 - **Start making content on Youtube**
 - 3D print some decorations
-- Setup Youtube Channel
+- **Setup Youtube Channel**
