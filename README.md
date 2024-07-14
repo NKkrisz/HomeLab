@@ -106,7 +106,6 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
 - **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
 - Long video (perhaps series) idea with music and nature involved
-- Update VanillaQOL To 1.21 and add Distant Horizons
 - Figure out how to connect a microphone to a DSLR
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
