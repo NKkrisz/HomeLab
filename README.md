@@ -76,7 +76,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Have two ideas for frame designs to display the ordered albums
 - Write down my audio journey so far (what gear I use etc...)
 - Need something to store / show my collection
-- Need a record player
+- **Repair a Logitech Blue Yeti**
 ### Upcoming Reviews
 - Nullmini ear/head paddings for all of my headphones that have them
 - Gulikit TMR and Ginful (V3?) Joystick replacements
@@ -101,7 +101,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
     - Beyerdynamic DT 880
     - Simgot EW200
 ### Intending To Purchase Soon
-- **SD Card (For Camera)**
+- Nothing
 ### Ideas / Other
 - **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
 - **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
@@ -110,7 +110,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Make a mix of C418's music (try out Reaper/LMMS)
 - Want to make some videos after exams are over
 - **Learn some video and photo editing**
-    - Davinci Resolve?
+    - **Kdenlive?**
 - **Start making content on Youtube**
 - 3D print some decorations
 - **Setup Youtube Channel**
