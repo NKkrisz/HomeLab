@@ -22,6 +22,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Milestones](markdown/Milestones.md)
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
+- ***MOVE NON-HOMELAB RELATED STUFF TO OTHER REPOSITORIES***
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - **Add a markdown file linking to guides I made or copy them over to here**
