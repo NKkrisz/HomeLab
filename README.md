@@ -104,14 +104,4 @@ Below you can find a list of each important part of my homelab / tech I use and 
 ### Intending To Purchase Soon
 - Nothing
 ### Ideas / Other
-- **Figure out an OBS setup with a DSLR and a phone as a camera at the same time**
-- **Hall effect joysticks and ABXY button swap for the Xbox Series X controller**
-- Long video (perhaps series) idea with music and nature involved
-- Figure out how to connect a microphone to a DSLR
-- Make a mix of C418's music (try out Reaper/LMMS)
-- Want to make some videos after exams are over
-- **Learn some video and photo editing**
-    - **Kdenlive?**
-- **Start making content on Youtube**
-- 3D print some decorations
-- **Setup Youtube Channel**
+- Nothing
