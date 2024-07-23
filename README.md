@@ -22,7 +22,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Milestones](markdown/Milestones.md)
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
-- ***MOVE NON-HOMELAB RELATED STUFF TO OTHER REPOSITORIES***
+- ***MOVE / REMOVE NON-HOMELAB RELATED STUFF TO OTHER REPOSITORIES***
 ### This repository
 - Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - **Add a markdown file linking to guides I made or copy them over to here**
@@ -45,14 +45,9 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Try Docker
 - Setup VPN
 ### Programming / IT Projects
-- Open_Blog - Open source, community driven tech blogging site where you submit articles with pull requests
-    - Will make the process smoother in the future, but need to work out the basics first like responsive design and good readability
-- ^^ Make a blog where I can post my original content and compile cool things I've done ^^
-- Make a "life progress tracker" website (current things: fitness, book reading)
+- Make a blog where I can post my original content and compile cool things I've done
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
 - Make a repository for cybersecurity stuff
-- Remake my portfolio site (halfway done)
-- Start making things for Project_Restart
 - **Start making [Unified-Diagrams](https://github.com/NKkrisz/Unified-Diagrams)**
 - Start making [E-Hoarder](https://github.com/NKkrisz/E-Hoarder)
 ### Main PC / Laptop / Phone
@@ -64,43 +59,10 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - Maybe swap laptop keyboard to US layout
 - Upgrade laptop storage and RAM
 - Get second monitor for PC
-### Steam Deck
-- Make post about average r/SteamDeck_2 user (compilation of previous polls' results)
-- Want to swap in OLED's trackpads and joysticks into my LCD Deck, can't get parts...
-- **Re-tighten right trackpad screws because the trackpad vibrates incorrectly**
-- **Maybe do shell swap again or just apply a skin to the front**
-- **Repaste APU for better cooling - do thermal tests**
-- **Undervolting or overclocking the Steam Deck?**
-- **Vibration motor upgrade using Joycon parts**
-- Replace joysticks to hall-effect ones
-### Audio Gear
-- Have two ideas for frame designs to display the ordered albums
-- Write down my audio journey so far (what gear I use etc...)
-- Need something to store / show my collection
-- **Repair a Logitech Blue Yeti**
-### Upcoming Reviews
-- Nullmini ear/head paddings for all of my headphones that have them
-- Gulikit TMR and Ginful (V3?) Joystick replacements
-- Sennheiser HD580 Precision
-- Beyerdynamic DT880
-- Superlux HD681B
-- Maybe category:
-    - Valve Steam Deck (LCD)
-    - Sony LinkBuds S
-    - Google Pixel 6a
-    - ThinkPad T480s
 ### Upload Media
-- Cool night photos caused by a solar storm - aurora (images)
-- Apple Macintosh PowerBook 190 (images and maybe video)
-- Xbox Series X Controller Front Plate Swap (images)
 - Images of each item mentioned in this repository
 - Updated layout of ThinkRack
 - Upload up-to-date PC setup
-- Audio Gear:
-    - Sennheiser HD580 and it's replaced cables
-    - Fiio KA13 with leather case
-    - Beyerdynamic DT 880
-    - Simgot EW200
 ### Intending To Purchase Soon
 - Nothing
 ### Ideas / Other
