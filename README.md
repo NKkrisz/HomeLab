@@ -22,28 +22,26 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Milestones](markdown/Milestones.md)
 - ### [History](markdown/History.md)
 ## Current Events / TODO List (bold items are in progress): 
-- ***MOVE / REMOVE NON-HOMELAB RELATED STUFF TO OTHER REPOSITORIES***
+- ***REMOVE / MOVE NON-HOMELAB RELATED STUFF TO OTHER REPOSITORIES***
 ### This repository
-- Probably rebrand/rename this repository in the future as it's now more general tech things I do
 - **Add a markdown file linking to guides I made or copy them over to here**
 - **Make a history thing of my past homelabs / projects!**
 - **Fill in purchases spreadsheet with data**
 ### ThinkRack
-- Most likely redo everything in the network and on the server (clean it up and make it secure)
-- Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
-- Got 2 "new" Seagate Barracuda 2TB drives I need to install
+- Redo everything related to networking and data storage:
+    - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
+    - Maybe try OpenMediaVault instead of TrueNAS Scale
+    - Get rack shelves for networking stuff and minipc
+    - **Make backups of important things to server**
+    - Setup Virtual Machines for non-NAS services
+        - Try Docker stuff
+        - Setup Immich
+        - Setup VPN
+    - Install "new" harddrives
+    - Remove bad drive/s
 - Upgrade minipc RAM (32GB/64GB) and main drive (1TB+)
-- Maybe try OpenMediaVault instead of TrueNAS Scale
-- Get rack shelves for networking stuff and minipc
-- **Make backups of important things to server**
 - Try making HDDs less noisy in some way
 - Make the two rack fans controllable
-- Add new storage setup details
-- Setup Virtual Machines
-- Remove bad drive/s
-- Setup Immich
-- Try Docker
-- Setup VPN
 ### Programming / IT Projects
 - Make a blog where I can post my original content and compile cool things I've done
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
