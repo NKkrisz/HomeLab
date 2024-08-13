@@ -28,20 +28,19 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - **Make a history thing of my past homelabs / projects!**
 - **Fill in purchases spreadsheet with data**
 ### ThinkRack
+- ***WORK IN PROGRESS: STORAGE, PROXMOX, OPENMEDIAVAULT, MINECRAFT SERVER, OTHER SERVICES(?)***
 - Redo everything related to networking and data storage:
     - Try setting up SyncThing on all devices (laptop, desktop, Steam Deck, phone)
-    - Maybe try OpenMediaVault instead of TrueNAS Scale
     - Get rack shelves for networking stuff and minipc
+    - **Try OpenMediaVault instead of TrueNAS Scale**
     - **Make backups of important things to server**
-    - Setup Virtual Machines for non-NAS services
+    - **Setup Virtual Machines for non-NAS services**
         - Try Docker stuff
         - Setup Immich
         - Setup VPN
-    - Install "new" harddrives
-    - Remove bad drive/s
+    - **Install "new" harddrives**
 - Upgrade minipc RAM (32GB/64GB) and main drive (1TB+)
-- Try making HDDs less noisy in some way
-- Make the two rack fans controllable
+- **Make the two rack fans controllable**
 ### Programming / IT Projects
 - Make a blog where I can post my original content and compile cool things I've done
 - TryHackMe, HackTheBox etc... (Research/learn cybersecurity?)
