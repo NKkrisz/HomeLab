@@ -1,4 +1,5 @@
 # TrueNAS Scale running in Proxmox VM with HBA in PCI-e passthrough
+**OUT OF DATE**
 
 ![TrueNAS Scale WebUI](../images/Web_Interfaces/TrueNAS_Scale.png)
 

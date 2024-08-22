@@ -1,4 +1,5 @@
 # PC Setup
+**OUT OF DATE**
 
 ![My PC](../images/PC_Setup/PXL_20230630_114415949.jpg)
 (This was before I added additional fans and SSD)
