@@ -10,4 +10,4 @@
 - Simgot EW200 (IEM)
 ## Microphones:
 - RØDE VideoMic Me (3.5mm jack version)
-- Hama uRage Stream 100 USB
+- Logitech Blue Yeti (With USB-C Port Mod)

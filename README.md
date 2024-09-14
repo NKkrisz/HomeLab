@@ -10,7 +10,7 @@ Below you can find a list of each important part of my homelab / tech I use and 
 - ### [Storage Setup](markdown/Storage_Setup.md)
 ## Devices / Gear I Use:
 - ### [Lenovo ThinkPad T480s](markdown/Lenovo_ThinkPad_T480s_Setup.md)
-- ### [Photography Gear](markdown/Photography_Gear.md)
+- ### [Studio Setup](https://github.com/NKkrisz/Studio-Setup)
 - ### [Steam Deck](markdown/Steam_Deck_Setup.md)
 - ### [Audio Gear](markdown/Audio_Gear.md)
 - ### [PC Setup](markdown/PC_Setup.md)
